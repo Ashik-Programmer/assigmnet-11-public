@@ -1,0 +1,14 @@
+.bicycle-header {
+    display: flex;
+    align-items: center;
+
+}
+
+/* hr */
+.hr-roll {
+    border: 2px solid #1ba370;
+    width: 100%;
+    margin: 25px;
+    background-color: #1ba370;
+    border-radius: 50px;
+}

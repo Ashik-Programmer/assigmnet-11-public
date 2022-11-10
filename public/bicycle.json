@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Road Bike",
+        "price": "850",
+        "description": "The Ride is the most versatile bike in the world. Its lightweight aluminum frame is easy to maneuver, making it perfect for a leisurely rided or for commuting to work.",
+        "quantity": "2",
+        "supplierName": "Helen B. Myers",
+        "img": "https://i.ibb.co/NZfcbqq/11.webp"
+    },
+    {
+        "name": "Mountain Bike",
+        "price": "690",
+        "description": "Ride is available in six colors and two sizes. The Ride's 7-speed Shimano Tourney drivetrain provides easy pedaling, and its linear pull brakes provide reliable stop.",
+        "quantity": "1",
+        "supplierName": "Branden A. Sheeran",
+        "img": "https://i.ibb.co/sQg7HKz/10.webp"
+    },
+    {
+        "name": "Touring Bike",
+        "price": "730",
+        "description": "The Asher is a lightweight, all-purpose bike with a steel frame and a steel fork. The bike comes maneuver with Shimano 21-speed the provides easy pedaling derailleur.",
+        "quantity": "1",
+        "supplierName": "Sandra A. Fleming",
+        "img": "https://i.ibb.co/F43MbFS/12.webp"
+    },
+    {
+        "name": "Alchemy Bikes",
+        "price": "450",
+        "description": "The Motobecane Gran Turismo Sport is a lightweight and comfortable, upright bike for all types of terrain. With aluminum frame and Shimano components, the bike built.",
+        "quantity": "4",
+        "supplierName": "Dustin A. Moreno",
+        "img": "https://i.ibb.co/27Dp7DG/13.webp"
+    },
+    {
+        "name": "Bob Jackson",
+        "price": "655",
+        "description": "It features 27 speeds, Shimano shifters, and a comfortable saddle. With a bike this versatile, you'll be able to explore your all types terrain city country or world.",
+        "quantity": "2",
+        "supplierName": "Scott C. Stamper",
+        "img": "https://i.ibb.co/QDx18M9/14.webp"
+    },
+    {
+        "name": "Spot Cycles",
+        "price": "590",
+        "description": "The Hexgon bike is the perfect way to explore the city. With a lightweight aluminum frame and 8 speeds, this bike is designed for speed and agility. It also has a rear rack,",
+        "quantity": "1",
+        "supplierName": "Lucas D. Merritt",
+        "img": "https://i.ibb.co/27Dp7DG/13.webp"
+    },
+    {
+        "name": "Carrera Bicycles",
+        "price": "299",
+        "description": "We also believe that the quality of the ingredients matters more than the quantity. Our bars are packed with vitamins, minerals, fiber, and protein. All of our bars gluten-free.",
+        "quantity": "1",
+        "supplierName": "Calvin J. Glasgow",
+        "img": "https://i.ibb.co/sQg7HKz/10.webp"
+    },
+    {
+        "name": "Diamondback",
+        "price": "799",
+        "description": "Icy cold refreshing drink that is made with fruit juice, water, and a secret blend of natural flavors. Ingredients: Water, Apple Juice, Cranberry Juice, Lemon Juice, Natural Flavors",
+        "quantity": "3",
+        "supplierName": "Aaron V. Smith",
+        "img": "https://i.ibb.co/F43MbFS/12.webp"
+    },
+    {
+        "name": "Franco Bicycles",
+        "price": "385",
+        "description": "why not go with a drink that is healthy and tastes great? With one can of bycale, you get a refreshing beverage that is perfect for a hot day. It is a refreshing blend.",
+        "quantity": "6",
+        "supplierName": "Patrick J. Steele",
+        "img": "https://i.ibb.co/NZfcbqq/11.webp"
+    }
+]

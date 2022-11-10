@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Giant Bikes",
+        "price": "1300",
+        "description": "Biautiful is a skin care line with a gentle and natural approach to beauty. All of their products are made with organic and natural ingredients that are good for your skin. They have a gentle and all-natural line for sensitive skin, so you can have a facial mask or peel without worrying about your skin getting irritated. They also have products for all skin types, so no matter what your skin type is, they have a product for you. The ingredients in Biautiful products are free of parabens, sulfates, and synthetic fragrances. The natural ingredients in their products are all sourced locally, so you know you're getting a product that is environmentally friendly.",
+        "supplierName": "Desmond G. Adams",
+        "brand": "Connondale",
+        "img": "https://i.ibb.co/Bf0bdgK/b1.png"
+    },
+    {
+        "name": "YT Bikes",
+        "price": "850",
+        "description": "At bycale, we offer a line of women's bras that are so comfortable, you'll forget you're wearing one. Our patented fabric is designed to be breathable and lightweight, while still providing the same level of support as a traditional bra. This makes it perfect for a day at the office, a day at the gym, or a night out on the town. You'll find our bras in a variety of colors and styles, so there's something for everyone. Forget your bra? We've got you covered. At bycale, we offer a line of women's bras that are so comfortable, you'll forget you're wearing one. Our patented fabric is designed to be breathable and lightweight.",
+        "supplierName": "William N. Mills",
+        "brand": "Kona Bikes",
+        "img": "https://i.ibb.co/Y8GJVKr/b3.png"
+    },
+    {
+        "name": "Trek Bikes",
+        "price": "850",
+        "description": "At first glance, you might think that these on-the-go, all-natural, healthy, and vegan snacks are simply fruit bars. But they're not. They're bars made with dried fruit, nuts, and spices. At Bycale, we believe that all the ingredients in our bars should be either organic or ethically sourced. We also believe that the quality of the ingredients matters more than the quantity. Our bars are packed with vitamins, minerals, fiber, and protein. All of our bars are made with 100% whole ingredients and are gluten-free, dairy-free, soy-free, and vegan. We make our bars with a blend of dried fruit and nuts, and spices like cinnamon, nutmeg, and ginger. And we use whole ingredients like brown rice syrup, maple syrup.",
+        "supplierName": "Rene B. Mason",
+        "brand": "Raleigh",
+        "img": "https://i.ibb.co/NmwbzJL/b2.png"
+    }
+]

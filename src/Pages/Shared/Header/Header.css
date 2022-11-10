@@ -1,0 +1,14 @@
+.header-icon {
+    font-size: 22px;
+    color: white;
+    position: absolute;
+    top: 1px;
+}
+
+.nav-header {
+    background-color: #1ba370;
+}
+
+.nav-link {
+    color: white !important;
+}
